@@ -25,7 +25,7 @@ Note: Your commit must contain **only 1 file**. Verify that you did not change a
 1. Open new pull request on Github
 1. Wait 1 to 2 weeks for the sticker 💌
 
-Pro Tip: [Follow me on Github](https://github.com/codediodeio) to get early access to new projects on AngularFirebase.com before they become videos.
+Pro Tip: [Follow me on Github](https://github.com/codediodeio) to get early access to new projects on AngularFirebase.com before they become videos
 
 ## Working
 
